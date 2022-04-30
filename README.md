@@ -14,7 +14,7 @@ It is simple search image with API react project
   **2) RUN**
  
 ```
-  npm run dev
+  npm start
 ```
 
 This Will Run Json-Server On Port :5000 And React On Port :3000

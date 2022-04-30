@@ -3,7 +3,7 @@
 It is simple search image with API react project
 
 
-#  USAGE!!
+#  USAGE!
 
   **1) INSTALL DEPENDENCİES**
  
